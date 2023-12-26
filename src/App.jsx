@@ -35,7 +35,7 @@ function App() {
   return (
     <>
     <div className='w-full bg-violet-400 max-w-md mx-auto text-gray-900 my-8 px-4 rounded-lg'>
-    <h1 className='text-center text-white my-3 font-bold'>Password Generator</h1>
+    <h1 className='text-center text-white my-3 font-bold'>Password Generator using 'useState, useCallback, useEffect, useRef' React-Hooks </h1>
     <div  className='flex rounded-lg overflow-hidden shadow mb-4'>
       <input
        type="text" 
